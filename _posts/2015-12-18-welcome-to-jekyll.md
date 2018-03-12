@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Jekyll!
+title: 绑定域名只需点击Domain后填写完整域名，然后点击Update即可
 date: '2015-12-18 21:45:10 +0800'
 tags: 'Mailbox, Theme'
 categories: 'Theme, Jekyll Writer'
